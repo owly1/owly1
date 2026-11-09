@@ -9,7 +9,7 @@ about me:
 - i like skydiving, bungee jumping, photography, and trying new sidequests!
 
 previously i've:
-- built [Roblox games](https://www.roblox.com/users/153434715/profile) with 1M+ total visits
+- built [Roblox games](https://www.roblox.com/users/153434715/profile) with 1M+ plays
 - built [BOSCO](https://github.com/owly1/hacktv), a wildfire-monitoring drone prototype
 - developed IndieVST, a synthesizer that turns plain-English prompts into instruments
 
