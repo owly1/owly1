@@ -12,7 +12,6 @@ previously i've:
 - built [Roblox games](https://www.roblox.com/users/153434715/profile) with 1M+ total visits
 - built [BOSCO](https://github.com/owly1/hacktv), a wildfire-monitoring drone prototype
 - developed IndieVST, a synthesizer that turns plain-English prompts into instruments
-- built [NextStop](https://nextstoptoronto.vercel.app/), a Toronto transit strategy simulation, and Wat Way, a Waterloo campus-navigation tool
 
 I'd love to connect, feel free to reach out!
 
